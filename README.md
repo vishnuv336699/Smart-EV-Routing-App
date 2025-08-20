@@ -10,7 +10,7 @@
 [Click here to try the app](https://smart-ev-routing-app.streamlit.app/)
 
 ## 💻 GitHub Repository  
-[https://github.com/gv-2309/Smart-EV-Routing-App](https://github.com/gv-2309/Smart-EV-Routing-App)
+[https://github.com/vishnuv336699/Smart-EV-Routing-App](https://github.com/vishnuv336699/Smart-EV-Routing-App)
 
 ---
 
@@ -33,9 +33,9 @@
 
 Install the required libraries:
 
-```bash
+
 pip install -r requirements.txt
-````
+
 
 ---
 
@@ -43,14 +43,15 @@ pip install -r requirements.txt
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/gv-2309/Smart-EV-Routing-App.git
+
 cd Smart-EV-Routing-App
-```
+
 
 ### 2. Create and Activate a Virtual Environment (Recommended)
 
-```bash
+bash
 # Create virtual environment
 python -m venv venv
 
@@ -59,13 +60,13 @@ venv\Scripts\activate
 
 # Activate on Mac/Linux
 source venv/bin/activate
-```
+
 
 ### 3. Install Dependencies
 
-```bash
+
 pip install -r requirements.txt
-```
+
 
 ---
 
@@ -113,9 +114,10 @@ CSV file **must contain** the following columns:
 
 For queries or collaboration, reach out:
 
-* Vishnu V — [gvs.vishnuv@email.com](mailto:gvs.vishnuv@email.com)
+* Vishnu V — [vishnuv336699@email.com](mailto:vishnuv336699@email.com)
 * Amrutha D — [amruthadandigimath@gmail.com](mailto:amruthadandigimath@gmail.com)
 
 ```
+
 
 
